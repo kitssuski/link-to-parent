@@ -1,7 +1,7 @@
-#LINK TO PARENT
+# LINK TO PARENT
 
 ### Requirements
-	Jquery
+	Jquery Library
 ### Getting Started
 
 It only takes a few simple steps to start:
