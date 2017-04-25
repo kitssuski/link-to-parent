@@ -1,7 +1,6 @@
 # LINK TO PARENT
 
-### Web Page
-	[link](https://kitssuski.github.io/link-to-parent/)
+[Web Page](https://kitssuski.github.io/link-to-parent/)
 
 ### Requirements
 	Jquery Library
